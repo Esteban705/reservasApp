@@ -1,0 +1,10 @@
+/* Agrega estilos CSS personalizados para las flechas */
+/* Flecha izquierda */
+.carousel .control-prev.control-arrow:before {
+    color: red;
+  }
+  
+  /* Flecha derecha */
+  .carousel .control-next.control-arrow:before {
+    color: red;
+  }
